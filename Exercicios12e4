@@ -11,17 +11,17 @@ Exercício 1
 
 Exercício 2
 
-    Classe - 
+    Classe - É um modelo de um objeto.
 
-    Objeto - 
+    Objeto - É uma instância ou modelo derivado de uma classe.
 
-    Método - 
+    Método - Um método em C# é um bloco de código que contém uma série de instruções.
 
-    Construtor - 
+    Construtor - É um método que é chamado quando uma classe é criada. Os construtores têm o mesmo nome que a classe e geralmente são usados para inicializar os membros de dados.
 
     Variável de instância - É uma referência para um objeto de uma determinada classe.
 
-    Variável local - 
+    Variável local - É uma variável declarada dentro de um método ou bloco.
 
     Overloading - Definição de múltiplos métodos com o mesmo nome mas com implementações diferentes.
 
