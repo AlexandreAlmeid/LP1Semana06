@@ -26,3 +26,6 @@ Exercício 2
     Overloading - Definição de múltiplos métodos com o mesmo nome mas com implementações diferentes.
 
     Encapsulação - Princípio que indica que os campos e parâmetros(private) de um determinado objeto de uma dada classe devem apenas ser acedidos através de métodos(public) da própria classe(gets e sets).
+
+Exercício 4
+Com base no código que fiz, sinto que fica mais simples sem readonly ou constantes. No entanto, sinto que readonly seria uma boa adição.
