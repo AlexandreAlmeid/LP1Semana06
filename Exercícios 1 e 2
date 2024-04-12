@@ -1,0 +1,28 @@
+Exercício 1
+
+    1 - Sim.
+    2 - Classes, instância.
+    3 - Public, private, protected.
+    4 - Sim.
+    5 - Constructors.
+    6 - Só a partir de dentro de uma instância da própria classe.
+    7 - A partir de dentro e fora da classe.
+    8 - A partir de dentro do respetivo NameSpace (assembly).
+
+Exercício 2
+
+    Classe - 
+
+    Objeto - 
+
+    Método - 
+
+    Construtor - 
+
+    Variável de instância - É uma referência para um objeto de uma determinada classe.
+
+    Variável local - 
+
+    Overloading - Definição de múltiplos métodos com o mesmo nome mas com implementações diferentes.
+
+    Encapsulação - Princípio que indica que os campos e parâmetros(private) de um determinado objeto de uma dada classe devem apenas ser acedidos através de métodos(public) da própria classe(gets e sets).
